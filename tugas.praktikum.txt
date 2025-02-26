@@ -1,0 +1,36 @@
+1. Dokumen root merujuk pada file atau folder utama dalam struktur direktori sebuah website atau aplikasi web, yang 
+   menjadi titik awal atau folder dasar tempat file dan sumber daya lainnya disimpan. Dalam konteks pengembangan web,
+   dokumen root sering kali mengacu pada folder utama yang menyimpan file HTML, CSS, JavaScript, gambar, dan file 
+   lainnya yang dibutuhkan oleh server untuk diakses oleh pengguna melalui browser.
+
+
+2. Pada Apache Web Server yang dijalankan menggunakan XAMPP di sistem operasi Windows, dokumen root tidak harus 
+   selalu terletak di C:\xampp\htdocs. Namun, secara default, ketika Anda menginstal XAMPP, dokumen root-nya memang
+   ditempatkan di folder tersebut, yaitu C:\xampp\htdocs.
+
+
+3. git init: Membuat repositori Git baru.
+   git clone: Mengambil salinan repositori yang sudah ada.
+   git remote: Mengelola remote repository.
+   git add: Menambahkan file ke staging area untuk commit.
+   git commit: Menyimpan perubahan ke dalam repositori lokal.
+   git push: Mengirimkan perubahan ke repositori remote.
+   git checkout: Berpindah antara cabang atau memulihkan file dari commit tertentu.
+
+
+4. GitHub lebih fokus pada berbagi kode secara terbuka, kolaborasi, dan komunitas pengembang. Ini adalah platform 
+   yang lebih ramah pemula dan lebih cocok untuk proyek open-source.
+   GitLab lebih fokus pada devops dan integrasi CI/CD, serta menawarkan solusi lebih terintegrasi untuk pengelolaan
+   siklus hidup perangkat lunak secara end-to-end. GitLab lebih fleksibel dalam hal self-hosting dan kontrol
+   akses yang lebih terperinci.
+
+
+5. Variabel user digunakan untuk mengonfigurasi lingkungan yang spesifik bagi pengguna tertentu.
+   Variabel system digunakan untuk mengonfigurasi lingkungan yang berlaku secara global di seluruh sistem
+   atau untuk semua pengguna pada komputer tersebut.
+   
+
+6. Variabel sistem lebih mengacu pada nilai atau informasi yang disediakan oleh sistem operasi untuk mendukung  
+   konfigurasi dan pengaturan lingkungan, yang dapat diakses secara global oleh aplikasi dan pengguna.
+   Variabel konstan adalah nilai yang tetap dan tidak berubah dalam program, yang digunakan untuk tujuan
+   pengkodean dalam aplikasi atau program, dan didefinisikan dalam kode pemrograman.
